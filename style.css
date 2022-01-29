@@ -38,7 +38,7 @@
 #buttons  button{
 	width: 40px;
 	height: 40px;
-	margin: 1px;
+	margin: 0px;
 	border:none ;
 	background: #816C61;
 	font-size: 20px;
